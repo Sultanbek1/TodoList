@@ -12,23 +12,36 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this todo app and get it looking as close to the design as possible.
-
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-
-Your users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Add new todos to the list
-- Mark todos as complete
-- Delete todos from the list
-- Filter by all/active/complete todos
-- Clear all completed todos
-- Toggle light and dark mode
-- **Bonus**: Drag and drop to reorder items on the list
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+.
+├── TodoList                             # Frontend Mentor Todo app 
+│   ├── .vscode
+│   ├     ├── setting.js 
+│   ├── css
+|   |     ├── style.css
+│   ├── design
+│   │   ├── active-states-dark.jpg
+│   │   ├── active-states-light.jpg
+│   │   ├── desktop-design-dark.jpg
+│   │   ├── desktop-design-light.jpg
+│   │   ├── mobile-design-dark.jpg
+│   │   └── mobile-design-light.jpg
+|   |── images 
+|   |    ├── bg-desktop-dark.jpg 
+│   │    ├── bg-desktop-light.jpg
+│   │    ├── bg-mobile-dark.jpg
+│   │    ├── bg-mobile-light.jpg
+│   │    ├── favicon-32x32.png
+│   │    ├── icon-check.svg
+│   │    ├── icon-cross.svg
+│   │    ├── icon-moon.svg
+│   │    ├── icon-sun.svg
+│   |── js
+|   |    ├── script.js
+│   |── .gitignore
+│   |── index.html
+│   ├── README.md
+│   ├── README-template.md
+│   ├── style-guide.md
 
 ## Where to find everything
 
@@ -53,13 +66,14 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
-## Deploying your project
+## Deploying project
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
 - [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+-W3School JS (https://www.w3schools.com/js/default.asp)
+-Frontend Mentor (https://www.frontendmentor.io)
+-Справочник HTML5/Css3 (https://hcdev.ru/css/)
 
 You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
